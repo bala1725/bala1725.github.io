@@ -1,0 +1,134 @@
+.head
+{
+    width:100%;
+    text-align:center;
+    background-color:gray;
+    color:orange;
+    font-size:30px;
+    margin-bottom:2px; 
+}
+ul
+{
+    list-style-type: none;
+    padding: 0;
+    overflow:hidden;
+    background-color:greenyellow;
+    width:100%;
+    margin-top:2px;
+    margin-bottom:2px;
+
+}
+li
+{
+  float:left;
+  width:25%;
+}
+li a 
+        {
+            display: block;
+            color:blue;
+            text-align: center;
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+li a:hover
+{
+    background-color:orange;
+    color:white;
+}
+.b1
+{
+ margin-top:2px;
+ width:100%;
+ height:400px;
+ position:relative;
+ border:1px solid black;
+ background-image: url("http://crictwist.com/wp-content/uploads/2018/01/ms-dhoni.jpg");
+background-size:100% 100%;
+
+}
+pre
+{
+width:200px;
+height:120px;
+margin:50px;
+border-bottom:100px;
+padding:auto;
+color:blue; 
+position:absolute;
+overflow:scroll;
+background:rgba(0, 0, 0, 0.5);
+}
+.b2
+{
+ margin-top:2px;
+ width:100%;
+ height:300px;
+ position:relative;
+
+}
+.b3
+{
+ margin-top:2px;
+ width:24%;
+ height:270px;
+ position:absolute;
+ border:1px solid black;
+ margin:1px;
+ background-image: url("https://fantasy2win.files.wordpress.com/2018/04/dhoni.jpg?w=1108");
+background-size:100% 100%;
+}
+.b4
+{
+ margin-top:2px;
+ width:24%;
+ height:270px;
+ position:absolute;
+ border:1px solid black;
+ margin:1px;
+ left:25%;
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbYYSnZv7WNkSUhR19Q03PxiX6fyaWLvUOE3lwlHkDmyT6Cf0");
+background-size:100% 100%;
+}
+.b5
+{
+ margin-top:2px;
+ width:24%;
+ height:270px;
+ position:absolute;
+ border:1px solid black;
+ margin:1px;
+ left:50%;
+ background-image: url("https://www.bing.com/th?id=OIP.Mv2LOD8IwBc7FTSOd59abAHaK4&w=129&h=184&c=7&o=5&pid=1.7");
+background-size:100% 100%;
+}
+.b6
+{
+ margin-top:2px;
+ width:24%;
+ height:270px;
+ position:absolute;
+ border:1px solid black;
+ margin:1px;
+ right:0px;
+ background-image: url("https://s3.ap-south-1.amazonaws.com/storytap/articles/news/msd_achievements/1-min.jpg ");
+background-size:100% 100%;
+}
+.but
+{
+display: block;
+color:blue;
+text-align: center;
+padding: 10px 20px;
+text-decoration: none;
+width:87%;
+overflow:hidden;
+background-color:greenyellow;
+bottom:0px;
+position:absolute;
+}
+.but:hover
+{
+    background-color:orange;
+    color:white;
+}
